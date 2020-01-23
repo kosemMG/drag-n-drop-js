@@ -1,11 +1,12 @@
-import { Project } from './project.js';
-import { DOMHelper } from '../utility/dom-helper.js';
+import { Project } from './project';
+import { DOMHelper } from '../utility/dom-helper';
 
 export class ProjectList {
-  projects = [];
+  // projects = [];
 
   constructor(type) {
     this.type = type;
+    this.projects = [];
 
     const projectItems = document.querySelectorAll(`#${type}-projects li`);
     for (const projectItem of projectItems) {
@@ -42,7 +43,9 @@ export class ProjectList {
       if (this.projects.find(project => project.id === projectId)) {
         return;
       }
-      document.getElementById(projectId).querySelector('button:last-of-type').click();
+      document.getElementById(projectId).
+               querySelector('button:last-of-type').
+               click();
       list.parentElement.classList.remove('droppable');
     });
   }

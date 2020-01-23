@@ -2,19 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eee62a86-7651-4e90-95af-5c31b9ee82c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/scripts/app/component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/app/project-list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/app/project.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/app/tooltip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/utility/dom-helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scripts/1.80dda08c104a22bf274f.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scripts/1.80dda08c104a22bf274f.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scripts/6a97aa85706afcd0da71.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scripts/6a97aa85706afcd0da71.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.prod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts/app/component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts/app/project-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/project-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts/app/project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/project.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts/app/tooltip.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/tooltip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts/utility/dom-helper.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utility/dom-helper.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,12 +51,22 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.13.0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../http" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -63,7 +93,8 @@
       <workItem from="1578782129257" duration="17976000" />
       <workItem from="1578943194138" duration="10119000" />
       <workItem from="1579378715912" duration="86000" />
-      <workItem from="1579499013808" duration="2415000" />
+      <workItem from="1579499013808" duration="5178000" />
+      <workItem from="1579587297462" duration="5515000" />
     </task>
     <servers />
   </component>
